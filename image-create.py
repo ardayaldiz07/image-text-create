@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 font = "Poppins-Black.ttf"
 fontSize = 100
-words = ["Arda", "Umut", "Hafize", "Ayşe"]
+words = []
 
 
 def imageCreate(text):
